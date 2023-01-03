@@ -1,3 +1,7 @@
-<h6 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swiftyfinch&count_private=true&show_icons=true&theme=nord&hide_title=true&hide_border=true" />
-</h6>
+<table align="center"><tr><td valign="center" align="center" width="75%">
+<img src="https://github-readme-stats.vercel.app/api?username=swiftyfinch&count_private=true&show_icons=true&theme=nord&hide_title=true&hide_border=true" />
+</td><td valign="center" align="center" width="10%">
+<a href="https://swiftyfinch.github.io/en/"><img src="https://swiftyfinch.github.io/site/avatar.png" width="36" title="SwiftyFinch Blog"></a>
+<br>
+<a href="https://www.linkedin.com/in/vyacheslav-khorkov-92b65164/"><img src="https://swiftyfinch.github.io/site/networks/linkedin_bw.png" width="36" title="LinkedIn"></a>
+</tr></tr></table> 
