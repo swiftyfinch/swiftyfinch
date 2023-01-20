@@ -1,5 +1,5 @@
 <table align="center"><tr><td valign="center" align="center" width="75%">
-<img src="https://github-readme-stats.vercel.app/api?username=swiftyfinch&count_private=true&show_icons=true&theme=nord&hide_title=true&hide_border=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=swiftyfinch&count_private=true&show_icons=true&theme=nord&hide_title=true&hide_border=true" />
 </td><td valign="center" align="center" width="10%">
 <a href="https://swiftyfinch.github.io/en/"><img src="https://user-images.githubusercontent.com/64660122/210557317-23efd642-5d50-4543-bd1b-ac1ec360eb65.png" width="40" title="SwiftyFinch Blog"></a>
 <br>
