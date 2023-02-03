@@ -9,5 +9,5 @@
 </tr></tr></table>
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/64660122/194708589-7331a02a-6d6e-4c0f-a7ec-e367f7228080.gif" width="600"/>
+   <a href="https://github.com/swiftyfinch/Rugby"><img src="https://user-images.githubusercontent.com/64660122/194708589-7331a02a-6d6e-4c0f-a7ec-e367f7228080.gif" width="600"/></a>
 </p>
