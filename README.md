@@ -12,6 +12,5 @@
 </table>
 
 <p align="center">
-   <a href="https://github.com/swiftyfinch/Rugby"><img src="https://user-images.githubusercontent.com/64660122/194708589-7331a02a-6d6e-4c0f-a7ec-e367f7228080.gif" width="600"/></a>
+  <img src="https://user-images.githubusercontent.com/64660122/230763146-d467dafb-252c-46ce-93d6-f2309e5aabc8.gif" width=600>
 </p>
-
