@@ -1,7 +1,7 @@
 <table align="center">
    <tr>
       <td valign="center" align="center" width="75%">
-         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=swiftyfinch&count_private=true&show_icons=true&theme=dracula&hide_title=true&hide_border=true" />
+         <img src="https://github-readme-stats.vercel.app/api?username=swiftyfinch&theme=github_dark_dimmed&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&rank_icon=github&card_width=250&show=discussions_started" />
       </td>
       <td valign="center" align="center" width="10%">
          <a href="https://github.com/swiftyfinch/Rugby"><img src="https://user-images.githubusercontent.com/64660122/216523869-49f8ef05-812c-40dc-b1b9-20a47af8b4c1.png" width="32"></a>
