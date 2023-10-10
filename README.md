@@ -1,7 +1,7 @@
 <table align="center">
    <tr>
       <td valign="center" align="center" width="75%">
-         <img src="https://github-readme-stats-eiuc4b0pc-swiftyfinchs-projects.vercel.app/api?username=swiftyfinch&theme=github_dark_dimmed&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&rank_icon=github&card_width=250&show=discussions_started" />
+         <img src="https://github-readme-stats-eiuc4b0pc-swiftyfinchs-projects.vercel.app/api?username=swiftyfinch&theme=github_dark_dimmed&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&rank_icon=github&card_width=250&show=discussions_started&cache_seconds=86400" />
       </td>
    </tr>
 </table>
