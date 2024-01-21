@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Vyacheslav Khorkov's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 730, Total Commits  : 730, Total PRs: 116, Total Issues: 20, Total Discussions Started: 66, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 729, Total Commits  : 729, Total PRs: 116, Total Issues: 20, Total Discussions Started: 66, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 39.63989739052391;
+        stroke-dashoffset: 39.6432328388683;
       }
     }
   
@@ -148,7 +148,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >730</text>
+      >729</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
