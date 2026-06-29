@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Vyacheslav Khorkov's GitHub Stats, Rank: A+</title>
+        <title id="titleId">Vyacheslav Khorkov's GitHub Stats, Rank: A</title>
         <desc id="descId">Total Stars Earned: 877, Total Commits  : 877, Total PRs: 172, Total Issues: 24, Total Discussions Started: 76, Contributed to (last year): 0</desc>
         <style>
           .header {
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 25.89087247220392;
+        stroke-dashoffset: 31.985294172529418;
       }
     }
   
